@@ -1,5 +1,4 @@
 # Universal Mechanical Polycomputation in Granular Matter
----
 
 This repository contains the source code for all the experiments in the paper
 
