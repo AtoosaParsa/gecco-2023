@@ -13,12 +13,13 @@ The paper is accepted at the <a href="https://gecco-2023.sigevo.org/HomePage"> G
 
 It was also accepted as a finalist at the <a href="https://www.human-competitive.org/awards"> Human-Competitive Awards (Humies 2023). </a>
 
+---
 ## Experiments
-### Examination of the parameter space
+### 1. Examination of the parameter space
 
 - All the codes for sweeping the parameter space are in the `parameter sweep` folder. Run `plotAll.py` for Figure 3 of the paper.
 
-### Generalization
+### 2. Generalization
 All the codes for the results in section 2.4 of the paper are in the `exp1 - single nand` folder.
 
 - Run `evolveAfpo.py` to redo the experiments.
@@ -27,11 +28,11 @@ All the codes for the results in section 2.4 of the paper are in the `exp1 - sin
  
 - Code for the frequency sweep experiment from Figure 7 is in the `frequency sweep` folder.
 
-### Distributed computation 
+### 3. Distributed computation 
 
 - Run `plotHeatmap.py` from the `exp2 - heatmaps` folder to recreate the heatmap in Figure 8.
 
-### Polycomputation
+### 4. Polycomputation
 
 Folder `exp3 -  polycomputation` contains all the codes from section 4 of the paper.
 
@@ -41,11 +42,12 @@ Folder `exp3 -  polycomputation` contains all the codes from section 4 of the pa
   
 - Folder `exp4 - heatmaps` contains codes to recreate Figure 11 showing the distribution of polycomputation.
 
-### Robustness analysis
+### 5. Robustness analysis
 
 - Run `robustness.py` to redo the experiment and `plotRobustness.py` to make Figure 12. 
 
 
+## Notes about the code
 
 
 ---
