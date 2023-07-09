@@ -16,7 +16,7 @@ This repository contains the source code for all the experiments in the paper
 *The paper is accepted at the <a href="https://gecco-2023.sigevo.org/HomePage"> Genetic and Evolutionary Computation Conference (GECCO 2023). </a>*
 
 
-*It is also accepted as a finalist at the <a href="https://www.human-competitive.org/awards"> Human-Competitive Awards (Humies 2023). </a>*
+*It is also accepted as a finalist for the <a href="https://www.human-competitive.org/awards"> Human-Competitive Awards (Humies 2023). </a>*
 
 </br>
 
