@@ -3,6 +3,7 @@
 This repository contains the source code for all the experiments in the paper
 
 [Parsa, A., Witthaus, S., Pashine, N., O'Hern, C. S., Kramer-Bottiglio, R., \& Bongard, J. (2023, July). Universal Mechanical Polycomputation in Granular Matter. In Proceedings of the Genetic and Evolutionary Computation Conference, In press.](https://arxiv.org/abs/2305.17872)
+
 </br>
 
 <p align="center">
@@ -12,10 +13,10 @@ This repository contains the source code for all the experiments in the paper
 </br>
 </br>
 
-The paper is accepted at the <a href="https://gecco-2023.sigevo.org/HomePage"> Genetic and Evolutionary Computation Conference (GECCO 2023). </a>
+*The paper is accepted at the <a href="https://gecco-2023.sigevo.org/HomePage"> Genetic and Evolutionary Computation Conference (GECCO 2023). </a>*
 
 
-It was also accepted as a finalist at the <a href="https://www.human-competitive.org/awards"> Human-Competitive Awards (Humies 2023). </a>
+*It was also accepted as a finalist at the <a href="https://www.human-competitive.org/awards"> Human-Competitive Awards (Humies 2023). </a>*
 
 </br>
 
