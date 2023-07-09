@@ -51,7 +51,7 @@ Folder `exp3 -  polycomputation` contains all the codes from section 4 of the pa
 - `evolveAfpo.py` launches an evolutionary algorithm (Age-Fitness Pareto Optimization) with two or three objectives. `constants.py` contains the algorithm's parameters such as population size and number of generations.
 - `switch_float.py` is the main simulator file. It simulators the 2D granular material taking as input the stiffness matrix and some gate parameters such as the positions of the ports, frequency of vibrations, and phase offset.
 
----
+
 Bibtex
 ------------
 <pre>
