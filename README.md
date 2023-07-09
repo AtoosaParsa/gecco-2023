@@ -13,7 +13,6 @@ The paper is accepted at the <a href="https://gecco-2023.sigevo.org/HomePage"> G
 
 It was also accepted as a finalist at the <a href="https://www.human-competitive.org/awards"> Human-Competitive Awards (Humies 2023). </a>
 
----
 ## Experiments
 ### 1. Examination of the parameter space
 
@@ -49,9 +48,10 @@ Folder `exp3 -  polycomputation` contains all the codes from section 4 of the pa
 
 ## Notes about the code
 
+- `evolveAfpo.py` launches an evolutionary algorithm (Age-Fitness Pareto Optimization) with two or three objectives. `constants.py` contains the algorithm's parameters such as population size and number of generations.
+- `switch_float.py` is the main simulator file. It simulators the 2D granular material taking as input the stiffness matrix and some gate parameters such as the positions of the ports, frequency of vibrations, and phase offset.
 
 ---
-
 Bibtex
 ------------
 <pre>
